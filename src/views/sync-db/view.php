@@ -30,7 +30,6 @@ $this->title = '查看:' . $model->name;
             'db_name',
             'port',
             'username',
-            'password',
             'connect_charset',
         ],
     ]) ?>
